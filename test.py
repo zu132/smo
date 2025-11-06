@@ -1,3 +1,1 @@
-print(unko man)
-print(tinko man)
-print(tantanmen)
+print("unko man")
