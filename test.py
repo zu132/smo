@@ -1,1 +1,1 @@
-print(unko man)
+print("unko man")
